@@ -1,6 +1,6 @@
 ### Motivation
 
-We have had times with friends when we want to dine out, but we are unsure about where to eat. We have a plethora of choices suggested by friends, but choosing one among them is generally riddled with uncertainities and disagreements. The most common platform where we tend to decide this is generic and not really built for **food**, i.e. the common messaging platforms such as WhatsApp, Telegram, SMS groups, etc. We want to provide a solution which will help you choose a restaurant when you are planning with friends, while taking into account cuisines, locations and any specific restaurant preferences that you all might have. We want you stumble upon . discover new restaurants in the process. 
+We have had times with friends when we want to dine out, but we are unsure about where to eat. We have a plethora of choices suggested by friends, but choosing one among them is generally riddled with uncertainities and disagreements. The most common platform where we tend to decide this is generic and not really built for **food**, i.e. the common messaging platforms such as WhatsApp, Telegram, SMS groups, etc. We want to provide a solution which will help you choose a restaurant when you are planning with friends, while taking into account cuisines, locations and any specific restaurant preferences that you all might have. We want you stumble upon / discover new restaurants in the process. 
 
 ### Surface-level UX
 
